@@ -1,20 +1,84 @@
-<h1 align="center">Hi 👋, I'm Ghost Sellz</h1>
-<h3 align="center">A passionate frontend developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghost-sellz&label=Profile%20views&color=0e75b6&style=flat" alt="ghost-sellz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghost-sellz" alt="ghost-sellz" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/GsMKy7BmDe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GsMKy7BmDe" height="30" width="40" /></a>
+<p align="center">
+  <img width="100%" alt="Ghost Sellz" src="https://www.gitskins.com/api/section/wordmark?username=ghost-sellz&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120491164%3Fu%3D67eeedcc8edf8fba3238f051b2533bc8801153f8%26v%3D4&label=Ghost%20Sellz">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img width="100%" alt="ASCII profile scan" src="https://www.gitskins.com/api/section/system-scan?username=ghost-sellz&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120491164%3Fu%3D67eeedcc8edf8fba3238f051b2533bc8801153f8%26v%3D4">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghost-sellz&show_icons=true&locale=en&layout=compact" alt="ghost-sellz" /></p>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://www.gitskins.com/api/section/hero?username=ghost-sellz&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120491164%3Fu%3D67eeedcc8edf8fba3238f051b2533bc8801153f8%26v%3D4&mode=light"
+    >
+    <img
+      width="100%"
+      alt="Ghost Sellz — profile"
+      src="https://www.gitskins.com/api/section/hero?username=ghost-sellz&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120491164%3Fu%3D67eeedcc8edf8fba3238f051b2533bc8801153f8%26v%3D4&mode=dark"
+    >
+  </picture>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost-sellz&show_icons=true&locale=en" alt="ghost-sellz" /></p>
+<p align="center">
+  <a href="https://github.com/ghost-sellz">GitHub</a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghost-sellz&" alt="ghost-sellz" /></p>
+<p align="center">
+  <img
+    width="100%"
+    alt="Highlights"
+    src="https://www.gitskins.com/api/section/highlights?username=ghost-sellz&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120491164%3Fu%3D67eeedcc8edf8fba3238f051b2533bc8801153f8%26v%3D4&items=TypeScript%3A%3A4%20public%20repositories%7CGhost-Sellz%3A%3AFeatured%20project%7CImpact%3A%3A11%20stars%20%C2%B7%209%20active%20days"
+  >
+</p>
+
+## Signal
+
+<p align="center">
+  <img
+    width="100%"
+    alt="11 stars across 4 repositories"
+    src="https://www.gitskins.com/api/section/stats?username=ghost-sellz&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120491164%3Fu%3D67eeedcc8edf8fba3238f051b2533bc8801153f8%26v%3D4"
+  >
+</p>
+
+<p align="center">
+  <img
+    width="100%"
+    alt="Language stack"
+    src="https://www.gitskins.com/api/section/stack?username=ghost-sellz&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120491164%3Fu%3D67eeedcc8edf8fba3238f051b2533bc8801153f8%26v%3D4"
+  >
+</p>
+
+## Work
+
+<p align="center">
+  <img
+    width="100%"
+    alt="Pinned projects"
+    src="https://www.gitskins.com/api/section/projects?username=ghost-sellz&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120491164%3Fu%3D67eeedcc8edf8fba3238f051b2533bc8801153f8%26v%3D4"
+  >
+</p>
+
+## The year, so far
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://www.gitskins.com/api/section/heatmap?username=ghost-sellz&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120491164%3Fu%3D67eeedcc8edf8fba3238f051b2533bc8801153f8%26v%3D4&mode=light"
+    >
+    <img
+      width="100%"
+      alt="22 contributions in the last year"
+      src="https://www.gitskins.com/api/section/heatmap?username=ghost-sellz&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120491164%3Fu%3D67eeedcc8edf8fba3238f051b2533bc8801153f8%26v%3D4&mode=dark"
+    >
+  </picture>
+</p>
+
+<p align="center">
+  <img
+    alt="ghost-sellz social visual"
+    src="https://www.gitskins.com/api/section/social?username=ghost-sellz&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F120491164%3Fu%3D67eeedcc8edf8fba3238f051b2533bc8801153f8%26v%3D4"
+  >
+</p>
